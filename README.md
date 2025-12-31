@@ -1,1 +1,1 @@
-# 4-tier-terraform-project
+# 3-Tier-Terraform-Project
